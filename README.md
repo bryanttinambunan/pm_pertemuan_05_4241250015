@@ -6,9 +6,9 @@ Program Studi: **Ilmu Komputer - Universitas Negeri Medan (UNIMED)**
 ---
 
 ## (a) Identitas Mahasiswa
-- **Nama**: Mahasiswa Pemrograman Mobile
+- **Nama**: Bryant Tinambunan
 - **NIM**: 4241250015
-
+- **MatKul** : Pemograman Mobile
 - **Nama UMKM**: Dapoer Kuliner Deli Medan
 - **Bidang Usaha**: Kuliner Autentik Khas Medan
 

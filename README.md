@@ -22,7 +22,7 @@ Aplikasi mendukung **Material Design 3**, palet warna dinamis dari `ColorScheme.
 | :---: | :---: |
 | ![Mode Terang](docs/screenshots/light_mode.png) | ![Mode Gelap](docs/screenshots/dark_mode.png) |
 
-> *Catatan: Untuk menyimpan tangkapan layar, jalankan aplikasi pada emulator atau perangkat fisik Android, lalu simpan hasil tangkapan layar ke folder `docs/screenshots/light_mode.png` dan `docs/screenshots/dark_mode.png`.*
+
 
 ---
 
